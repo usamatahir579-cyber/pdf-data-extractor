@@ -1,0 +1,76 @@
+Final year project proposal
+Group member:
+Usama Tahir, Sulaiman Jamali, bahadur Ali, Zunera Mughal, Ashique Ali
+Department of physics
+BS physics (final year)
+Supervisor:
+Sir Ali Imran The black hole information paradox
+A theoretical investigation into the relationship between quantum 
+mechanics, thermodynamics, and gravity.content
+•Introduction (page 4)
+•Objectives (page 6)
+•Methodology (page 7)
+•Expected outcomes (page 9)
+•Significance of the project(page 10)
+•Tools and resources(page 11)Introduction
+•Black holes represent the most mysterious and extreme prediction of general 
+relativity—regions where gravity become so intense that not even light can 
+escape. In 1974, Stephen hawking introduced the concept of hawking radiation, 
+showing that black hole are not entirely black but emit radiation due to quantum 
+effects near the event horizon.
+•This discovery created a profound conflict between quantum mechanics, which 
+insist that information conserved, and general relativity, which seems to allow 
+information to vanish inside black hole.•This conflict is known as black hole information paradox —one of the most 
+significant unsolved problems in theoretical physics.
+•Understanding where information is truly lost in black hole or somehow 
+preserved in subtle ways has far -reaching implications for the unification of 
+quantum mechanics and gravity(general relativity), and for our understanding of 
+reality itself.Objectives
+•The primary objectives of this project are:
+•To study thermodynamic properties of black hole (temperature, entropy, and 
+radiation).
+•To understand the origin and formulation of the black hole information paradox.
+•To explore proposed resolution such as black hole complementarity, holographic 
+principle, and quantum information theory.
+•To construct a conceptual and mathematical framework explaining how 
+information may be conserved during black hole evaporation.Methodology
+•Since this is a theoretical research project, the work will focus on analytical study and 
+Literature based exploration supported by numerical visualization.
+•Literature review:
+•Study original paper by Stephen hawking Jacob Bekenstein , and Leonard
+•Susskind.
+•Review modern research on holography and quantum gravity perspective.
+•Analytical study:
+•Analyze the black hole thermodynamics and quantum field effect near horizon.
+•Explore equations governing hawking radiation and entropy.
+•Discuss quantum mechanical properties of information conservation..
+•Comparative analysis:
+•Comparing classical, semi classical, and quantum gravity approaches to the 
+paradox.
+•Evaluate the strength and weakness of different proposed solution.
+•Simulation and visualization:
+•Generate visual plots to represent evaporation and information flow concepts.Expected outcomes
+•A comprehensive theoretical report explaining the nature of the black hole 
+information paradox.
+•A clear comparison between classical, quantum, and holographic interpretations.
+•Graphs or visualizations showing relationships between entropy, temperature, 
+and mass.
+•A research paper suitable for an undergraduate physics journal.
+•Personal mastery of fundamental concepts in thermodynamics, relativity, and 
+quantum theory, laying a strong foundation for graduate -level research.Significance of the project
+•This research connects the three greatest pillars of modern physics —quantum 
+mechanics, thermodynamics, and general relativity.
+•Resolving or even deeply understanding the black hole information paradox is 
+considered a key step toward a theory of quantum gravity, which aims to describe 
+the universe at its most fundamental level.
+•For a developing scientist, this project provides the opportunity to think like a 
+theorist—questioning assumptions, connecting ideas, and researching toward the 
+ultimate truths of nature.  Tools and resources
+•Books:
+•A brief history of time —Stephen hawking
+•The black hole war —Leonard Susskind
+•General relativity —Sean Carroll
+•Software:
+•Mathematica
+•Videos:
+•Susskind lectures(Stanford)

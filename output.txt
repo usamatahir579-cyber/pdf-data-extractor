@@ -1,10 +1,6 @@
-Final year project proposal
-Group member:
-Usama Tahir, Sulaiman Jamali, bahadur Ali, Zunera Mughal, Ashique Ali
+Thesis
 Department of physics
-BS physics (final year)
-Supervisor:
-Sir Ali Imran The black hole information paradox
+BS physics (final year)The black hole information paradox
 A theoretical investigation into the relationship between quantum 
 mechanics, thermodynamics, and gravity.content
 •Introduction (page 4)
